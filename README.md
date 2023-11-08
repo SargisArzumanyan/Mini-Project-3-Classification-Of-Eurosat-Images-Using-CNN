@@ -1,1 +1,1 @@
-# Mini-Project-3-Classification-On-Eurosat-Images
+# Mini-Project-3-Classification-Of-Eurosat-Images-Using_CNN
