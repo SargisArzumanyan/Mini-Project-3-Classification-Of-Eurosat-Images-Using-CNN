@@ -1,6 +1,5 @@
 # Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN
 
-# The Aim Of The Project
 
 The aim of this project is classification of satellite images belonging to 10 classes.
 
@@ -11,6 +10,9 @@ which contain 18,900, 4,050, and 4,050 images respectivly.
 The images have shape of (64x64x3)
 Here is the link to the dataset - https://www.tensorflow.org/datasets/catalog/eurosat
 
+And here are examples of images
+
+![image examples](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/239fa8ba-95c8-450f-9fac-9a7fb0741175)
 
 # How To Use The Model
 
@@ -40,11 +42,13 @@ Here is a sumarry of the model.
 
 I used 'AdamW' optimizer with learning rate of 0.001, and the loss is 'sparse categorical crossentropy'.
 I used early stopping for regularization with 25 patience, which monitored the validation accuracy.
-I trained the network for 250 epochs, but it stopped earlier because of no improvement after 141 epochs.
+I set the 'epochs' equal to 250, but it stopped earlier because of no improvement after 141 epochs.
 
 # The Result
 
 The model has an accuracy of 0.9568 on a test set.
+![image](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/96d6198c-9acd-4661-a570-9b468b0885f1)
+
 You can see the training process here
 ![training history](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/f1c7f574-6c2e-4dbb-8501-f540c50ec681)
 
