@@ -50,6 +50,7 @@ The model has an accuracy of 0.9568 on a test set.
 ![image](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/96d6198c-9acd-4661-a570-9b468b0885f1)
 
 You can see the training process here
+
 ![training history](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/f1c7f574-6c2e-4dbb-8501-f540c50ec681)
 
 # What else I have tried.
