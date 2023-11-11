@@ -35,6 +35,7 @@ There is 1 dropout layer with dropout rate of 0.375.
 And finally it has 1 'Dense' output layer with 10 neurons (equal to number of classes), and 'softmax' activation function.
 
 Here is a sumarry of the model.
+
 ![model summary](https://github.com/SargisArzumanyan/Mini-Project-3-Classification-Of-Eurosat-Images-Using-CNN/assets/82839525/f6b42982-e45d-44d9-8d1d-44db04c4b2c7)
 
 
